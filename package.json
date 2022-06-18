@@ -1,0 +1,19 @@
+{
+  "name": "social-medial-web-app",
+  "version": "1.0.0",
+  "description": "A full stack Social media app with react, tailwind css,sanity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waheedjs/Social-medial-web-app.git"
+  },
+  "author": "Waheedjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waheedjs/Social-medial-web-app/issues"
+  },
+  "homepage": "https://github.com/Waheedjs/Social-medial-web-app#readme"
+}
